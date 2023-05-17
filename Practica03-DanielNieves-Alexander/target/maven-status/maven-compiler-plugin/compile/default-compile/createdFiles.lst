@@ -1,0 +1,12 @@
+edu\ups\ec\practica03\danielnieves\modelo\Compositor.class
+edu\ups\ec\practica03\danielnieves\dao\CompositorDAO.class
+edu\ups\ec\practica03\danielnieves\modelo\Cancion.class
+edu\ups\ec\practica03\danielnieves\dao\CantanteDAO.class
+edu\ups\ec\practica03\danielnieves\idao\ICantanteDAO.class
+edu\ups\ec\practica03\danielnieves\modelo\Disco.class
+edu\ups\ec\practica03\danielnieves\test\Principal.class
+edu\ups\ec\practica03\danielnieves\idao\ICompositorDAO.class
+edu\ups\ec\practica03\danielnieves\controlador\ControladorPersona.class
+edu\ups\ec\practica03\danielnieves\modelo\Persona.class
+edu\ups\ec\practica03\danielnieves\controlador\IControlador.class
+edu\ups\ec\practica03\danielnieves\modelo\Cantante.class
